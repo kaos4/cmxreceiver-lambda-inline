@@ -23,8 +23,8 @@
 
 // ******* ENTER YOUR CREDENTIALS **********
 
-var secret = "yoursecret"; //"enterYourSecret";
-var validator = "12341234123412341234";//"enterYourValidator";
+var secret = "Circonia1"; //"enterYourSecret";
+var validator = "57a26d783cafe0041e45a5c1907f6a8583cb8847";//"enterYourValidator";
 var dynamoTable = "cmxdata";
 
 // *****************************************
